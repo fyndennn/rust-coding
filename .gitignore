@@ -1,0 +1,12 @@
+# Cargo build output, in any project at any depth
+target/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Editor and OS clutter
+*.swp
+.DS_Store
